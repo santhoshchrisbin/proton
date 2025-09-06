@@ -1,5 +1,5 @@
 # Prerequisites
-######
+#
 - JDK 21
 - Maven 3.9
 - MySQL 8
@@ -23,3 +23,4 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
+git
